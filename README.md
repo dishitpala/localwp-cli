@@ -1,9 +1,9 @@
-# :tokyo_tower: LOCAL SHELL
+# :tokyo_tower: Local Shell
 Since apple rollout the Big Sur update accessing WP-CLI in Local by Flywheel is a headache! Here is the alternate way to access the site shell via python script
 
-<p align="center">
-  <img src="https://github.com/dishitpala/flywheel-local-cli/blob/main/screenshot.png" height="400px">
-</p>
+
+<img src="https://github.com/dishitpala/flywheel-local-cli/blob/main/screenshot.png" height="400px">
+
 
 ### :seedling: Prerequisite
 Make sure [python3](https://www.python.org/download/releases/3.0/) installed.
