@@ -1,7 +1,7 @@
 """Python script to access local by flywheel site shell.
 
 Run:
-    python PATH-TO-LOCAL-SSH-FILE
+    python PATH-TO-LOCALWP-CLI-PY-FILE
 """
 
 import json
