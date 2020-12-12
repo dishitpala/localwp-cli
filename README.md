@@ -9,6 +9,8 @@
 Make sure [python3](https://www.python.org/download/releases/3.0/) installed.
 
 ### :surfer: Setup
+Download [flywheel-cli.py](https://github.com/dishitpala/flywheel-local-cli/blob/main/flywheel-cli.py) file to your machine
+
 Replace `<username>` with your mac username in `flywheel-cli.py` file
 ```python
 mac_user = '<username>' # example: dishitpala
