@@ -1,5 +1,5 @@
 # :ferris_wheel: LOCALWP CLI
-**S**ince Apple rollout the **Big Sur** update, accessing [WP-CLI](https://wp-cli.org/) in Local by Flywheel is a headache, here is the alternate way to access the site shell via python script.
+**S**ince Apple rollout the **Big Sur** update, accessing [WP-CLI](https://wp-cli.org/) in [localwp](https://localwp.com/) is a headache, here is the alternate way to access the site shell via python script.
 
 
 <img src="https://github.com/dishitpala/flywheel-local-cli/blob/main/screenshot.png" height="400px">
