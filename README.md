@@ -1,5 +1,5 @@
 # :ferris_wheel: FLYWHEEL CLI
-Since apple rollout the Big Sur update accessing WP-CLI in Local by Flywheel is a headache! Here is the alternate way to access the site shell via python script
+<b>S</b>ince apple rollout the Big Sur update accessing WP-CLI in Local by Flywheel is a headache! Here is the alternate way to access the site shell via python script
 
 
 <img src="https://github.com/dishitpala/flywheel-local-cli/blob/main/screenshot.png" height="400px">
@@ -19,5 +19,3 @@ Run the below command in your terminal.
 ```shell
 python flywheel-cli.py
 ```
-
-
