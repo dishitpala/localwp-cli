@@ -1,4 +1,4 @@
-"""Python script to access local by flywheel site shell.
+"""Python script to access localwp site shell.
 
 Run:
     python PATH-TO-LOCALWP-CLI-PY-FILE
@@ -22,7 +22,7 @@ if not os.path.exists(sites_json_path) or not os.path.exists(ssh_entry_path):
 
 # Head with styling and colors.
 print(u"\n\u001b[30;1m%s\u001b[0m" % ('=' * 40) )
-print(u"\u001b[31;1m%s\u001b[0m" % ' LOCAL BY FLYWHEEL CLI' )
+print(u"\u001b[31;1m%s\u001b[0m" % ' LOCALWP CLI' )
 print(u"\u001b[30;1m%s\u001b[0m\n" % ('=' * 40) )
 
 # Open sites.json file.
